@@ -1,6 +1,6 @@
 {
   "name": "47-guess-the-number",
-  "version": "1.0.1",
+  "version": "2.0.5",
   "description": "The number guessing game guess the number and win",
   "main": "index.js",
   "type": "module",
